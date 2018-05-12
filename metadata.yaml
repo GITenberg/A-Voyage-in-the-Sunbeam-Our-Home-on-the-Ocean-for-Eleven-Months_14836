@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5713
     wikipedia: http://en.wikipedia.org/wiki/Anna_Brassey,_Baroness_Brassey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14836#A-Voyage-in-the-Sunbeam-Our-Home-on-the-Ocean-for-Eleven-Months
 gutenberg_issued: '2005-01-31'
 gutenberg_type: Text
 identifiers:
