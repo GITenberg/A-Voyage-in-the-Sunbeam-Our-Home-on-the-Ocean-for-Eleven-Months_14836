@@ -1,0 +1,29 @@
+_repo: A-Voyage-in-the-Sunbeam-Our-Home-on-the-Ocean-for-Eleven-Months_14836
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brassey, Annie
+    alias: Brassey, Annie Allnutt
+    birthdate: 1839
+    deathdate: 1887
+    gutenberg_agent_id: '5713'
+    url: http://www.gutenberg.org/2009/agents/5713
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Brassey,_Baroness_Brassey
+description: ''
+gutenberg_issued: '2005-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14836'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages around the world'
+- !lcsh 'Sunbeam (Yacht)'
+- !lcc 'G'
+title: A Voyage in the 'Sunbeam', Our Home on the Ocean for Eleven Months
+url: http://www.gutenberg.org/ebooks/14836
